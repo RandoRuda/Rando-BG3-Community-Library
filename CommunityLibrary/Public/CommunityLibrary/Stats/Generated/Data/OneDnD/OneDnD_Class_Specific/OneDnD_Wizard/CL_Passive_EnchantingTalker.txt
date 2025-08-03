@@ -1,0 +1,7 @@
+new entry "CL_Passive_EnchantingTalker"
+type "PassiveData"
+data "DisplayName" "h140c3f14gf9bfg4fa7gba20gf59faa11f7a2;1"
+data "Description" "hfebbad14g9390g46b3g8670g8497ee11964b;1"
+data "Icon" "PassiveFeature_Charm"
+data "Properties" "ForceShowInCC"
+data "Boosts" "RollBonus(RawAbility, IntelligenceModifier, Charisma);RollBonus(SkillCheck, IntelligenceModifier, Deception);RollBonus(SkillCheck, IntelligenceModifier, Intimidation);RollBonus(SkillCheck, IntelligenceModifier, Performance);RollBonus(SkillCheck, IntelligenceModifier, Persuasion)"
